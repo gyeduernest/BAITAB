@@ -1,0 +1,124 @@
+body{
+    position: relative;
+width: 1506px;
+height: 4000px;
+    background: linear-gradient(180deg, #5E50B1 26.3%,
+     rgba(85, 87, 183, 0.932859) 44.57%,
+      rgba(81, 91, 186, 0.896565) 64.44%,
+       rgba(72, 100, 193, 0.816972) 81.51%, 
+       rgba(39, 130, 215, 0.548387) 105.4%,
+        rgba(19, 63, 151, 0.264038) 135.38%,
+         rgba(0, 0, 92, 0) 171.3%);
+
+}
+a{
+text-decoration: none;
+color: aliceblue;
+padding: 20px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+
+}
+nav{
+    height: 50px;
+    width: 1460px;
+    padding: 20px;
+    background-color: #34317D;
+    text-align: center;
+    position: relative;
+    top: 0;
+    bottom: 0;}
+li{
+    display: inline;
+    padding: 20px;
+    text-decoration: none;}
+
+.text{
+    color: white;
+    position: absolute;
+    width: 566px;
+    height: 421px;
+    left: 151px;
+    top: 150px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 70px;
+    letter-spacing: 0.105em;}
+
+    .text2{
+        color: white;
+        position: absolute;
+        width: 566px;
+        height: 421px;
+        right: 5%;
+        top: 20%;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 60px;
+        line-height: 70px;
+        letter-spacing: 0.105em;}
+    
+
+    
+    .you{
+        color:#00F0FF;
+    }
+    .Investor{
+        color: #FFB800;
+    }
+
+.find{
+    position: absolute;
+    right: 20%;
+    top: 25%;
+    height: 80px;
+    width: 250px;
+    border-radius: 10px;
+    background-color: #00005C;
+    color: azure;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px ;
+    box-shadow: 4px 4px 60px #FFFFFF;
+    border: 6px solid #FFFFFF;
+}
+
+.come-here{
+    position: absolute;
+    right: 20%;
+    top: 7%;
+    height: 80px;
+    width: 250px;
+    border-radius: 10px;
+    background-color: #00005C;
+    color: azure;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px ;
+    box-shadow: 4px 4px 60px #FFFFFF;
+    border: 6px solid #FFFFFF;
+}
+
+.Be-an-investor{
+    position:absolute;
+    right: 60%;
+    top: 25%;
+    height: 80px;
+    width: 250px;
+    border-radius: 10px;
+    background-color: #00005C;
+    color: azure;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px ;
+    box-shadow: 4px 4px 60px #FFFFFF;
+    border: 6px solid #FFFFFF;
+}
