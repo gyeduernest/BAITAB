@@ -56,3 +56,12 @@ nav ul{
 /* This is the items on the body*/
 
 
+.log-rectangle{
+    background-color: aliceblue;
+    position: absolute;
+width: 455px;
+height: 455px;
+left: 492px;
+top: 293px;
+
+}
