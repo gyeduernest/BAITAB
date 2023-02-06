@@ -12,7 +12,88 @@ height: 982px;
          rgba(39, 130, 215, 0.548387) 127.73%);
 
 }
-/* This is the menu items on the home page*/
+/* This is the items on the body*/
+.log_in{
+    position: absolute;
+width: 455px;
+height: 455px;
+left: 492px;
+top: 293px;
+background: #F6FBF9;
+border-radius: 32px;
+}
+
+#phase1{
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 47px;
+text-align: center;
+color: #5B57B3;
+}
+#enjoy{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;    
+    text-align: center;   
+    color:rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+#email{box-sizing: border-box;
+    position: absolute;
+    width: 375px;
+    height: 55px;
+    top: 150px;
+    left: 20px;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+#password{
+    box-sizing: border-box;
+    position: absolute;
+    width: 375px;
+    height: 55px;
+    top: 250px;
+    left: 20px;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+
+}
+#Go_into_account{
+position: absolute;
+width: 255px;
+height: 59px;
+left: 80px;
+top: 325px;
+background: #34317D;
+border-radius: 50px;
+color: white;
+font-family: Roboto;
+font-weight: 700;
+font-size: 22px;
+}
+#dont_have_an_account{
+position: absolute;
+width: 255px;
+height: 59px;
+left: 80px;
+top: 400px;
+border-radius: 50px;
+color:black;
+font-family: Roboto;
+}
+
+
+
+
+
+
+
+
+  /* This is the menu items on the home page*/  
 a{
 text-decoration: none;
 color: white;
@@ -56,12 +137,3 @@ nav ul{
 /* This is the items on the body*/
 
 
-.log-rectangle{
-    background-color: aliceblue;
-    position: absolute;
-width: 455px;
-height: 455px;
-left: 492px;
-top: 293px;
-
-}
